@@ -8,3 +8,10 @@ movie-this, Tommy Boy
 spotify-this-song, "I Want it That Way"
 concert-this, Counting Crows
 concert-this, The Black Keys
+spotify-this-song, Dancing in the moonlight
+spotify-this-song, Dancing in the moonlight
+concert-this, Black Keys
+spotify-this-song, Dancing in the moonlight
+concert-this, Black Keys
+movie-this, Tommy Boy
+spotify-this-song, "I Want it That Way"
