@@ -28,3 +28,5 @@ Plot
 Actors
 Do What it Says
 By typing 'do-what-it-says' into the command line, LIRI will read from a random.txt file and run what is within it.
+
+[Click here to check out that it works]([https://photos.google.com/share/AF1QipM0glvUTHnYfm8VuZya4ARNw6kerEsghbnygxxNUirNJl-qc6LEfPTf8QqA-1HBRw?key=OWtnNWFLX0s4Z0tTMUhFOU1fSlZ5ZDBPQlpKbmhR)
