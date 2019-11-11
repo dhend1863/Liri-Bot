@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LIRI Bot
 
 ### Overview
@@ -251,3 +252,37 @@ After completing the homework please add the piece to your portfolio. Make sure 
 If you have any questions about this project or the material we have covered, please post them in the community channels in slack so that your fellow developers can help you! If you're still having trouble, you can come to office hours for assistance from your instructor and TAs.
 
 **Good Luck!**
+=======
+LIRI bot
+A node application that gives you information on songs, concerts and movies by accessing multiple APIs through your command line.
+To see a demontration of this application Click Here!
+
+Spotify This Song
+By typing 'spotify-this-song' and 'the song name' into the command line. LIRI will access the Spotify API and give you the top 3 returns for that entry. Some of the song information that is included are:
+
+Artist Name
+Song Name
+A Preview Link URL
+Album Name
+Concert This
+By typing 'concert-this' and 'the band name' into the command line, LIRI will access the Bands In Town API and provide you with a list of upcoming tour dates. Other information given includes:
+
+Venue Name
+Location (City and State)
+Event Date
+Movie This
+By typing 'movie-this' and 'the movie name' into the command line, LIRI will access the OMDB API and provide the following information about that movie:
+
+Movie Title
+Release Year
+IMDB Rating
+Rotten Tomatoes Rating
+Country
+Language
+Plot
+Actors
+Do What it Says
+By typing 'do-what-it-says' into the command line, LIRI will read from a random.txt file and run what is within it.
+
+[Click here to check out that it works]([https://photos.google.com/share/AF1QipM0glvUTHnYfm8VuZya4ARNw6kerEsghbnygxxNUirNJl-qc6LEfPTf8QqA-1HBRw?key=OWtnNWFLX0s4Z0tTMUhFOU1fSlZ5ZDBPQlpKbmhR)
+>>>>>>> 1348d77a0810d221bd32ae3bc5a4f25ffb6f0067
