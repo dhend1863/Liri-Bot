@@ -9,7 +9,6 @@ Artist Name
 Song Name
 A Preview Link URL
 Album Name
-
 Concert This
 By typing 'concert-this' and 'the band name' into the command line, LIRI will access the Bands In Town API and provide you with a list of upcoming tour dates. Other information given includes:
 
@@ -17,7 +16,6 @@ Venue Name
 Location (City and State)
 Event Date
 Movie This
-
 By typing 'movie-this' and 'the movie name' into the command line, LIRI will access the OMDB API and provide the following information about that movie:
 
 Movie Title
@@ -28,6 +26,5 @@ Country
 Language
 Plot
 Actors
-
 Do What it Says
 By typing 'do-what-it-says' into the command line, LIRI will read from a random.txt file and run what is within it.
